@@ -24,4 +24,4 @@ To submit...
 4. There should be no `float`s and minimal use of the `text-align`, `display: block`, and `display: inline-block` properties for this lab, as you should be leaning on your flexbox properties.
 
 ### Target Due Date
-Wednesday, September 25, 2019
+Thursday, September 26, 2019
