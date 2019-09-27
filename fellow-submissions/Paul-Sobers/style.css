@@ -1,20 +1,20 @@
 header{
   /*border:2px solid rgb(0,0,0);*/
   display:flex;
-  justify-content:space-around;
+  justify-content:space-between;
   padding:20px 20px;
+  margin:30px 0;
 }
 
 h1{
   margin:0;
   font-size:20px;
+  display:flex;
 }
 body{
   font-size:20px;
   font-family: 'Roboto', sans-serif;
-  /*border:2px solid red;*/
-  width:1155px;
-  height:702px;
+  margin:0;
 }
 
 a{
@@ -51,22 +51,23 @@ ul{
 
 .pink-circle{
   background-color:#e19998;
-  width:100px;
-  height:100px;
+  width:230px;
+  height:230px;
+  margin:0;
+  border-radius:50%;
 }
 
-.right {
-  /*border:2px dotted blue;*/
-  display:flex;
-  flex-direction:column;
-}
 
 section{
   display:flex;
   
 }
 
-img{
-  width:100px;
-  height:100px;
+main{
+  display:flex;
+  margin:20px 20px;
+}
+
+article{
+  margin-left:30px;
 }
