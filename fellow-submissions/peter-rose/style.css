@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body {
+  background-color: grey;  
+}
+header {
+    height: 80px;
+    background-color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+}
+
+nav h4, ul {
+    margin:0px;
+    padding:0px;
+}
+
+.navbar h4{
+    color: blue;
+    margin-right: 80px;
+    font-size: 27px;
+}
+header ul {
+margin-left: 240px;
+
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+
+}
+
+section.blank-space {
+    height:300px;
+    width: 100%;
+    background-color: #c3c4c4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+section.pink {
+    height: 200px;
+    width: 200px;
+    background-color: #e19998;
+    border-radius: 50%;
+
+}
+
+
+.bottom-container {
+    height: 350px;
+    width: 100%;
+    display: flex;
+}
+
+.team {
+    height: 100%;
+    width: 30%;
+    background-color: #fff;
+}
+
+aside.team {
+       
+}
+
+aside.team img {
+    justify-content: center;
+}
+
+.team h4, p {
+    margin: 25px 20px 0px 20px;
+}
+
+.team p {
+    padding: 20px;
+}
+
+.mission {
+    height: 100%;
+    width: 70%;
+    background-color: #fff;
+}
+
+.mission h4,p {
+    margin: 25px 20px 0px 20px;
+}
+
+.mission p {
+    font-size: 20px;
+    padding: 20px;
+}
+/*All h4 tags in main*/
+
+main h4 {
+    font-size: 20px;
+    font-family: 'Be Vietnam', sans-serif;
+}
