@@ -4,7 +4,7 @@
 ### Directions
 In this lab, you will have the opportunity to use your new Flexbox toolkit to create a simple webpage layout. The header and the two column display can all be laid out more easily using Flexbox.
 
-[Here is a bare bones mockup](https://www.figma.com/file/w6nbsyA7erIc5StSGprifz/Flexbox-Lab-Mockup?node-id=0%3A1) of the indended layout (The Macbook layout, not the iPhone X layout). You should feel free to keep your rendering equally as sparse. You may use lorem ipsum text and grab placeholder images from [placeholder.com](https://placeholder.com/). I'm most concerned with the **layout** being identical. Of course, if you want to make the design and content your own, go ahead!
+[Here is a bare bones mockup](https://www.figma.com/file/w6nbsyA7erIc5StSGprifz/Flexbox-Lab-Mockup?node-id=1%3A2) of the indended layout. You should feel free to keep your rendering equally as sparse. You may use lorem ipsum text and grab placeholder images from [placeholder.com](https://placeholder.com/). I'm most concerned with the **layout** being identical. Of course, if you want to make the design and content your own, go ahead!
 
 To submit...
 1. Fork this repo
