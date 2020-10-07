@@ -13,7 +13,8 @@ To submit...
 4. Push back up to your remote repo when done.
 
 ### Considerations
-1. The key features of this layout that must be replicated are the header, navbar, and two-column section at the bottom of the page.
-2. Ensure that your rendering has one narrow column and one wide column (and you use flexbox to achieve this effect!)
-3. Look at the `border-radius` property if you are stuck on how to make a picture round.
-4. There should be no `float`s and minimal use of the `text-align`, `display: block`, and `display: inline-block` properties for this lab, as you should be leaning on your flexbox properties.
+1. The key features of this layout that must be replicated are the navbar, header, and two-column section at the bottom of the page.
+2. As the page size grows and shrinks, the navbar, header, and two-column sections should grow and shrink with it (take up all horizonatally avaliable space). 
+3. Ensure that you are rendering has one narrow column and one wide column (and you use flexbox to achieve this effect!)
+4. Look at the `border-radius` property if you are stuck on how to make a picture round.
+5. There should be no `float`s and minimal use of the `text-align`, `display: block`, and `display: inline-block` properties for this lab, as you should be leaning on your flexbox properties.
