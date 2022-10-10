@@ -8,7 +8,7 @@ In this lab, you will have the opportunity to use your new Flexbox toolkit to cr
 
 ### Considerations
 1. The key features of this layout that must be replicated are the navbar, header, and two-column section at the bottom of the page.
-2. As the page size grows and shrinks, the navbar, header, and two-column sections should grow and shrink with it (take up all horizonatally avaliable space). 
+2. As the page size grows and shrinks, the navbar, header, and two-column sections should grow and shrink with it (take up all horizontally available space).
 3. Ensure that you are rendering has one narrow column and one wide column (and you use flexbox to achieve this effect!)
 4. Look at the `border-radius` property if you are stuck on how to make a picture round.
 5. There should be no `float`s and minimal use of the `text-align`, `display: block`, and `display: inline-block` properties for this lab, as you should be leaning on your flexbox properties.
